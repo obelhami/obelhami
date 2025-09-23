@@ -35,6 +35,18 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
 
+
+---
+
+### 💻 Languages Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-50%25-blue?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-40%25-darkblue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+
 ---
 
 ### 📊 GitHub Stats
