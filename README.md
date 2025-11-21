@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 Student at **1337 School** (42 Network)  
 - 💻 Strong focus on **C, C++ and JavaScript**  
-- 🔭 Currently working on **Philosophers** (Concurrency in C)  
+- 🔭 Currently working on **ft_transcendence** (Concurrency in javascript, css, html)  
 - 🌱 Exploring **Web Development** and **System Programming**  
 - ⚡ Fun fact: Debugging feels like detective work 🕵️‍♂️  
 
